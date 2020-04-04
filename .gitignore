@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Docs
+/JobsPortal.Business/bin
+/JobsPortal.Business/obj
+/JobsPortal.Web.Api/.config
+/JobsPortal.Web.Api/.vs/JobsPortal.Web.Api/config
+/JobsPortal.Web.Api/.vs/JobsPortal.Web.Api/DesignTimeBuild
+/JobsPortal.Web.Api/.vs/JobsPortal.Web.Api/v16
+/JobsPortal.Web.Api/bin
+/JobsPortal.Web.Api/obj
+/JobsPortal.Web.Api/Properties/PublishProfiles
